@@ -1,6 +1,6 @@
 <h1>BurgerApp</h1>
 
-Statik yapılı bir burger menü projesidir.
+Statik yapılı bir burger menüsü projesidir.
 
 <h2> Kullanılan Teknolojiler</h2>
 
