@@ -19,6 +19,10 @@ HTML, SCSS ve CSS kullanıldı.
 
 ![]()
 
+https://github.com/EyupSaltukB/burger-app/assets/129687853/bffd57b9-07cf-4def-b5e0-d37bc743e9e3
+
+
+
 
 
 <h4> GIF </h4>
