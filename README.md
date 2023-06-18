@@ -4,7 +4,7 @@ Hamburger Menüsü projesi olup statik yapıya sahiptir.
 
 <h2> Kullanılan Teknolojiler</h2>
 
-HTML, SCSS ve CSS kullanıldı.
+HTML, SCSS ve CSS kullanılarak yapıldı.
 
 
 <h3>Ekran Görüntüleri</h3>
