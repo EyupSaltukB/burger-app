@@ -1,6 +1,6 @@
 <h1>Burger Menü Projesi</h1>
 
-Menü projesi olup statik yapılıdır.
+Hamburger Menüsü projesi olup statik yapıya sahiptir.
 
 <h2> Kullanılan Teknolojiler</h2>
 
