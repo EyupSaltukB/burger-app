@@ -25,5 +25,7 @@ https://github.com/EyupSaltukB/burger-app/assets/129687853/bffd57b9-07cf-4def-b5
 
 
 
-<h4> GIF </h4>
+<h4> GIF </h4>![brgr](https://github.com/EyupSaltukB/burger-app/assets/129687853/06115228-008b-4379-9d12-088b4ef81019)
+
+
 
